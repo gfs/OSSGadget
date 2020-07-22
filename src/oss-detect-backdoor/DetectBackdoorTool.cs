@@ -11,7 +11,7 @@ namespace Microsoft.CST.OpenSource
 {
     public class DetectBackdoorTool : OSSGadget
     {
-            public DetectBackdoorTool() : base()
+                public DetectBackdoorTool() : base()
         {
         }
 
