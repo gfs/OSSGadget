@@ -1,7 +1,7 @@
 ﻿// Copyright (c) Microsoft Corporation. Licensed under the MIT License.
 
 using CommandLine;
-using CommandLine.Text;
+using CommandLine.Text; 
 using Microsoft.CST.OpenSource.Shared;
 using System;
 using System.Collections.Generic;
@@ -11,7 +11,7 @@ namespace Microsoft.CST.OpenSource
 {
     public class DetectBackdoorTool : OSSGadget
     {
-        public DetectBackdoorTool() : base()
+            public DetectBackdoorTool() : base()
         {
         }
 
